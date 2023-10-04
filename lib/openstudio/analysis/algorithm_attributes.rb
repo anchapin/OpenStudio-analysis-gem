@@ -13,7 +13,7 @@ module OpenStudio
       #
       def initialize
         @attributes = {
-        "seed": nil,
+        # "seed": nil,
         "failed_f_value": 1000000000000000000,
         "debug_messages": 1
         }
